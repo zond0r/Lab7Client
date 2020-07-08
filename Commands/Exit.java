@@ -14,5 +14,4 @@ public class Exit implements CommandWithoutArg {
         return "exit";
     }
 
-
 }
